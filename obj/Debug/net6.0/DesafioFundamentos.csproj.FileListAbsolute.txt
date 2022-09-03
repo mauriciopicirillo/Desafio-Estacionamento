@@ -1,0 +1,15 @@
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\Bootcamps\Pottencial .NET\Desafio-Estacionamento\obj\Debug\net6.0\ref\DesafioFundamentos.dll
